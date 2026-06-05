@@ -31,3 +31,4 @@ print("d:", d)
 <img width="227" height="106" alt="image" src="https://github.com/user-attachments/assets/4e8c4d54-d4bb-4fcc-9d81-1d8b2db9c0d1" />
 
 ## Result
+Thus, the Python program to print characters using character literals was executed successfully.
