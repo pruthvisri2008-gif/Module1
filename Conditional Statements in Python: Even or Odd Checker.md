@@ -25,3 +25,4 @@ else:
 <img width="145" height="60" alt="image" src="https://github.com/user-attachments/assets/85aac98d-e7cb-4aa1-b4a0-90f8e0b056ae" />
 
 ## Result
+Thus, the Python program to print characters using character literals was executed successfully.
